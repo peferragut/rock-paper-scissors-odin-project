@@ -62,3 +62,5 @@ Player ${playerScore} X ${computerScore} Computer`);
         console.log("It's a tie!");
     }
 }
+
+game();
